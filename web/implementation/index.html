@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shortcut Tree</title>
+    <link rel="stylesheet" href="/style.css">
+  </head>
+  <body>
+    <div id="nav">
+      <a href="/">Previously on...</a>
+      <a href="/implementation/">Implementation</a>
+      <a href="/show/?svg=one.svg">One</a>
+      <a href="/show/?svg=two.svg">Two</a>
+    </div>
+    <h1>Implementation</h1> 
+    <div class="explain">
+      <ul>
+        <li>Rust program transforms an SVG
+          <ul>
+            <li>Creates abstract segments</li>
+            <li>Adds direction, boundary and bounding box indicators</li>
+            <li>Creates shortcut tree</li>
+            <li>Adds initial winding numbers</li> 
+          </ul>
+        </li>
+        <li>Web page displays that SVG
+          <ul>
+            <li>Show and hide info from the SVG</li>
+            <li>Comput winding number for mouse location</li>
+          </ul>
+        </li>
+        <li>
+          Limitation: Only one path supported
+        </li>
+      </ul>
+    </div>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>

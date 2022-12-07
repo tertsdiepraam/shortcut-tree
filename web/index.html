@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shortcut Tree</title>
+    <link rel="stylesheet" href="/style.css">
+  </head>
+  <body>
+    <div id="nav">
+      <a href="/">Previously on...</a>
+      <a href="/implementation/">Implementation</a>
+      <a href="/show/?svg=one.svg">One</a>
+      <a href="/show/?svg=two.svg">Two</a>
+    </div>
+    <h1>Massively-Parallel Vector Graphics</h1>
+    <div class="explain">
+      <ul>
+        <li>Goal: parallelize SVG rendering</li>
+        <li>Break up the illustration in a <strong>shortcut tree</strong></li>
+        <li>Winding numbers
+          <ul>
+            <li>Ray from location to the right</li>
+            <li>Count intersections with segments</li>
+            <li>Needs to be preserved in the tree</li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
