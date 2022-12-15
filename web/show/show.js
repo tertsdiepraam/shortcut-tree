@@ -18,7 +18,7 @@ for (const el of element_ids) {
 
 const params = new URLSearchParams(document.location.search);
 const filename = params.get("svg");
-const svgResponse = await fetch("/" + filename);
+const svgResponse = await fetch(import.meta.env.BASE_URL + filename);
 
 elements.picture.innerHTML = await svgResponse.text();
 
