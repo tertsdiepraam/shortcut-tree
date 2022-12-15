@@ -1,0 +1,97 @@
+@font-face {
+  font-family: "Lato";
+  src: url("/fonts/Lato-Regular.ttf");
+}
+
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: Lato;
+  font-size: 1.2em;
+}
+
+#nav {
+  flex: 0 0 1;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  display: flex;
+  flex-direction: row;
+  gap: 1em;
+}
+
+#nav a {
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+  border-bottom: 3px solid #ddd;
+}
+
+#nav a.current {
+  border-color: black;
+}
+
+#nav a:hover {
+  border-color: black;
+}
+
+#app {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+}
+
+#winding {
+  align-self: stretch;
+  width: 2ch;
+  margin-right: 1em;
+}
+
+#winding_number {
+  position: absolute;
+  font-size: 1.2em;
+}
+
+#controls {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 0.5em;
+}
+
+#controls hr {
+  grid-column: 1 / span 2;
+  width: 100%;
+}
+
+#controls h2 {
+  grid-column: 1 / span 2;
+  margin: 0.2em 0 0.2em 5px;
+  font-family: Lato;
+  font-size: 1.2em;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
+.arrowhead {
+  marker-end: url(#arrow);
+}
+
+.winding_number {
+  font-size: 0.3em;
+}
+
+.explain {
+  font-size: 1.5em;
+  line-height: 2em;
+}
+
+h1 {
+  font-size: 3em;
+}

@@ -1,0 +1,908 @@
+<svg height="200mm" id="svg5" inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)" sodipodi:docname="two.svg" version="1.1" viewBox="0 0 200 200" width="200mm" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+<defs>
+<marker id="arrow" markerHeight="6" markerWidth="6" orient="auto-start-reverse" refX="5" refY="5" viewBox="0 0 10 10">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="black" stroke="black"/>
+</marker>
+</defs>
+<path class="original" d="m 95.132894,17.991126 c 0,0 89.065666,-24.4730125 86.253956,54.973224 -2.81172,79.44624 12.07243,136.21572 -66.52679,101.74815 C 36.260833,140.24492 -6.6289006,108.22903 26.87579,69.133038 60.38048,30.037044 63.800907,8.1144111 109.72254,39.209346 155.64417,70.304282 178.69183,84.569494 166.7177,111.90125 154.74356,139.233 148.54429,179.83413 97.603573,147.56085 46.662853,115.28757 12.592453,102.23259 27.343052,76.737594 42.093652,51.242601 67.463611,45.343234 80.248113,62.233917 93.032618,79.124599 164.11741,67.790886 146.14948,95.474698 128.18155,123.15851 103.68552,156.89806 76.301406,120.45839 48.917296,84.018726 95.132894,17.991126 95.132894,17.991126 Z" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<g class="treenode" segments="segment10">
+<rect fill="transparent" height="50" stroke="#aaa" width="50" x="0" y="0"/>
+<text class="winding_number" x="1" y="6">
+-1
+</text>
+<path class="shortcut firstHalf arrowhead" d="M75.53040464508153 24.458065757451138L75.53040464508153 2.229032878725569" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M75.53040464508153 2.229032878725569L75.53040464508153 -20" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment10">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="50" y="0"/>
+<text class="winding_number" x="51" y="6">
+-1
+</text>
+<path class="shortcut firstHalf arrowhead" d="M75.53040464508153 24.458065757451138L75.53040464508153 2.229032878725569" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M75.53040464508153 2.229032878725569L75.53040464508153 -20" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="75" y="0"/>
+<text class="winding_number" x="76" y="6">
+0
+</text>
+</g>
+<g class="treenode" segments="">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="87.5" y="0"/>
+<text class="winding_number" x="88.5" y="6">
+0
+</text>
+</g>
+<g class="treenode" segments="segment10 segment11">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="75" y="12.5"/>
+<text class="winding_number" x="76" y="18.5">
+0
+</text>
+</g>
+<g class="treenode" segments="segment0 segment29">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="87.5" y="12.5"/>
+<text class="winding_number" x="88.5" y="18.5">
+-1
+</text>
+<path class="shortcut firstHalf arrowhead" d="M123.93995819774833 14.434447658906668L123.93995819774833 3.4672238294533333" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M123.93995819774833 3.4672238294533333L123.93995819774833 -7.500000000000002" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment10">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="50" y="25"/>
+<text class="winding_number" x="51" y="31">
+-1
+</text>
+</g>
+<g class="treenode" segments="segment11 segment29">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="75" y="25"/>
+<text class="winding_number" x="76" y="31">
+-2
+</text>
+<path class="shortcut firstHalf arrowhead" d="M109.72254 39.209346L109.72254 22.104673" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M109.72254 22.104673L109.72254 5" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment8">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="0" y="50"/>
+<text class="winding_number" x="1" y="56">
+-1
+</text>
+<path class="shortcut firstHalf arrowhead" d="M26.87579 69.133038L26.87579 49.566519" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M26.87579 49.566519L26.87579 30" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment9">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="25" y="50"/>
+<text class="winding_number" x="26" y="56">
+-1
+</text>
+<path class="shortcut firstHalf arrowhead" d="M41.27534863322222 51.412999276428465L41.27534863322222 40.70649963821423" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M41.27534863322222 40.70649963821423L41.27534863322222 30" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment9 segment10 segment21">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="37.5" y="50"/>
+<text class="winding_number" x="38.5" y="56">
+-2
+</text>
+<path class="shortcut firstHalf arrowhead" d="M61.45341544977066 52.67586907041808L61.45341544977066 41.337934535209044" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M61.45341544977066 41.337934535209044L61.45341544977066 30" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment8 segment9 segment21">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="25" y="62.5"/>
+<text class="winding_number" x="26" y="68.5">
+-2
+</text>
+<path class="shortcut firstHalf arrowhead" d="M61.45341544977066 52.67586907041808L61.45341544977066 47.587934535209044" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M61.45341544977066 47.587934535209044L61.45341544977066 42.5" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment21">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="37.5" y="62.5"/>
+<text class="winding_number" x="38.5" y="68.5">
+-2
+</text>
+</g>
+<g class="treenode" segments="">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="0" y="75"/>
+<text class="winding_number" x="1" y="81">
+0
+</text>
+</g>
+<g class="treenode" segments="segment8 segment20">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="12.5" y="75"/>
+<text class="winding_number" x="13.5" y="81">
+-2
+</text>
+<path class="shortcut firstHalf arrowhead" d="M27.343052 76.737594L27.343052 65.868797" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M27.343052 65.868797L27.343052 55" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="0" y="87.5"/>
+<text class="winding_number" x="1" y="93.5">
+0
+</text>
+</g>
+<g class="treenode" segments="segment7 segment8 segment19 segment20">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="12.5" y="87.5"/>
+<text class="winding_number" x="13.5" y="93.5">
+-1
+</text>
+<path class="shortcut firstHalf arrowhead" d="M72.16698649025264 67.5L72.16698649025264 99.73214095269884" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M72.16698649025264 99.73214095269884L72.16698649025264 131.96428190539768" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment20 segment21">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="25" y="75"/>
+<text class="winding_number" x="26" y="81">
+-2
+</text>
+</g>
+<g class="treenode" segments="">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="37.5" y="75"/>
+<text class="winding_number" x="38.5" y="81">
+-2
+</text>
+</g>
+<g class="treenode" segments="segment19">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="25" y="87.5"/>
+<text class="winding_number" x="26" y="93.5">
+-2
+</text>
+</g>
+<g class="treenode" segments="">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="37.5" y="87.5"/>
+<text class="winding_number" x="38.5" y="93.5">
+-2
+</text>
+</g>
+<g class="treenode" segments="segment21 segment22">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="50" y="50"/>
+<text class="winding_number" x="51" y="56">
+-2
+</text>
+<path class="shortcut firstHalf arrowhead" d="M80.248113 62.233917L80.248113 46.116958499999996" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M80.248113 46.116958499999996L80.248113 30" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment22 segment29">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="62.5" y="50"/>
+<text class="winding_number" x="63.5" y="56">
+-3
+</text>
+<path class="shortcut firstHalf arrowhead" d="M80.248113 62.233917L80.248113 46.116958499999996" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M80.248113 46.116958499999996L80.248113 30" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut firstHalf arrowhead" d="M95.13289400000001 17.991125999999998L95.13289400000001 23.995562999999997" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M95.13289400000001 23.995562999999997L95.13289400000001 30" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="50" y="62.5"/>
+<text class="winding_number" x="51" y="68.5">
+-2
+</text>
+</g>
+<g class="treenode" segments="segment29">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="62.5" y="62.5"/>
+<text class="winding_number" x="63.5" y="68.5">
+-3
+</text>
+</g>
+<g class="treenode" segments="segment22 segment23 segment29">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="75" y="50"/>
+<text class="winding_number" x="76" y="56">
+-2
+</text>
+</g>
+<g class="treenode" segments="">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="87.5" y="50"/>
+<text class="winding_number" x="88.5" y="56">
+-2
+</text>
+</g>
+<g class="treenode" segments="segment23">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="75" y="62.5"/>
+<text class="winding_number" x="76" y="68.5">
+-3
+</text>
+<path class="shortcut firstHalf arrowhead" d="M115.65420219523867 73.47173410149216L115.65420219523867 57.98586705074608" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M115.65420219523867 57.98586705074608L115.65420219523867 42.5" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment23">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="87.5" y="62.5"/>
+<text class="winding_number" x="88.5" y="68.5">
+-3
+</text>
+<path class="shortcut firstHalf arrowhead" d="M115.65420219523867 73.47173410149216L115.65420219523867 57.98586705074608" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M115.65420219523867 57.98586705074608L115.65420219523867 42.5" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment28 segment29">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="50" y="75"/>
+<text class="winding_number" x="51" y="81">
+-3
+</text>
+</g>
+<g class="treenode" segments="">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="75" y="75"/>
+<text class="winding_number" x="76" y="81">
+-3
+</text>
+</g>
+<g class="treenode" segments="segment0 segment1">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="100" y="0"/>
+<text class="winding_number" x="101" y="6">
+-1
+</text>
+<path class="shortcut firstHalf arrowhead" d="M181.45204811610137 69.33555464717891L181.45204811610137 24.667777323589455" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M181.45204811610137 24.667777323589455L181.45204811610137 -20" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment1">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="125" y="0"/>
+<text class="winding_number" x="126" y="6">
+-1
+</text>
+<path class="shortcut firstHalf arrowhead" d="M181.45204811610137 69.33555464717891L181.45204811610137 24.667777323589455" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M181.45204811610137 24.667777323589455L181.45204811610137 -20" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment11">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="100" y="25"/>
+<text class="winding_number" x="101" y="31">
+-1
+</text>
+</g>
+<g class="treenode" segments="">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="112.5" y="25"/>
+<text class="winding_number" x="113.5" y="31">
+-1
+</text>
+</g>
+<g class="treenode" segments="segment11 segment12">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="100" y="37.5"/>
+<text class="winding_number" x="101" y="43.5">
+-2
+</text>
+<path class="shortcut firstHalf arrowhead" d="M114.5699501111848 42.48826387602303L114.5699501111848 29.994131938011513" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M114.5699501111848 29.994131938011513L114.5699501111848 17.5" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment12 segment13">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="112.5" y="37.5"/>
+<text class="winding_number" x="113.5" y="43.5">
+-2
+</text>
+<path class="shortcut firstHalf arrowhead" d="M169.85177473809267 98.49679184749996L169.85177473809267 57.99839592374998" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M169.85177473809267 57.99839592374998L169.85177473809267 17.5" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment13">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="125" y="25"/>
+<text class="winding_number" x="126" y="31">
+-1
+</text>
+</g>
+<g class="treenode" segments="segment1">
+<rect fill="transparent" height="50" stroke="#aaa" width="50" x="150" y="0"/>
+<text class="winding_number" x="151" y="6">
+0
+</text>
+</g>
+<g class="treenode" segments="segment23 segment24">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="100" y="50"/>
+<text class="winding_number" x="101" y="56">
+-3
+</text>
+<path class="shortcut firstHalf arrowhead" d="M149.0426714238678 87.60059474931448L149.0426714238678 58.80029737465724" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M149.0426714238678 58.80029737465724L149.0426714238678 30" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment13 segment24">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="125" y="50"/>
+<text class="winding_number" x="126" y="56">
+-2
+</text>
+<path class="shortcut firstHalf arrowhead" d="M169.85177473809267 98.49679184749996L169.85177473809267 64.24839592374998" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M169.85177473809267 64.24839592374998L169.85177473809267 30" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="100" y="75"/>
+<text class="winding_number" x="101" y="81">
+-3
+</text>
+</g>
+<g class="treenode" segments="segment24">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="125" y="75"/>
+<text class="winding_number" x="126" y="81">
+-3
+</text>
+<path class="shortcut firstHalf arrowhead" d="M149.0426714238678 87.60059474931448L149.0426714238678 71.30029737465725" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M149.0426714238678 71.30029737465725L149.0426714238678 55" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment24">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="137.5" y="75"/>
+<text class="winding_number" x="138.5" y="81">
+-2
+</text>
+</g>
+<g class="treenode" segments="">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="125" y="87.5"/>
+<text class="winding_number" x="126" y="93.5">
+-3
+</text>
+</g>
+<g class="treenode" segments="segment24 segment25 segment26">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="137.5" y="87.5"/>
+<text class="winding_number" x="138.5" y="93.5">
+-2
+</text>
+</g>
+<g class="treenode" segments="segment13">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="150" y="50"/>
+<text class="winding_number" x="151" y="56">
+-1
+</text>
+</g>
+<g class="treenode" segments="segment1">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="175" y="50"/>
+<text class="winding_number" x="176" y="56">
+0
+</text>
+</g>
+<g class="treenode" segments="">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="187.5" y="50"/>
+<text class="winding_number" x="188.5" y="56">
+0
+</text>
+</g>
+<g class="treenode" segments="segment1 segment2 segment3">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="175" y="62.5"/>
+<text class="winding_number" x="176" y="68.5">
+0
+</text>
+</g>
+<g class="treenode" segments="">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="187.5" y="62.5"/>
+<text class="winding_number" x="188.5" y="68.5">
+0
+</text>
+</g>
+<g class="treenode" segments="segment13 segment14">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="150" y="75"/>
+<text class="winding_number" x="151" y="81">
+-1
+</text>
+</g>
+<g class="treenode" segments="segment3">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="175" y="75"/>
+<text class="winding_number" x="176" y="81">
+0
+</text>
+</g>
+<g class="treenode" segments="segment7 segment19">
+<rect fill="transparent" height="50" stroke="#aaa" width="50" x="0" y="100"/>
+<text class="winding_number" x="1" y="106">
+0
+</text>
+<path class="shortcut firstHalf arrowhead" d="M114.86005999999998 80L114.86005999999998 127.35624999999999" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M114.86005999999998 127.35624999999999L114.86005999999998 174.71249999999998" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut firstHalf arrowhead" d="M72.16698649025264 80L72.16698649025264 105.98214095269884" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M72.16698649025264 105.98214095269884L72.16698649025264 131.96428190539768" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment19 segment28">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="50" y="100"/>
+<text class="winding_number" x="51" y="106">
+-2
+</text>
+<path class="shortcut firstHalf arrowhead" d="M76.301406 80L76.301406 100.229195" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M76.301406 100.229195L76.301406 120.45839" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment27 segment28">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="75" y="100"/>
+<text class="winding_number" x="76" y="106">
+-3
+</text>
+</g>
+<g class="treenode" segments="segment19">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="50" y="125"/>
+<text class="winding_number" x="51" y="131">
+-1
+</text>
+<path class="shortcut firstHalf arrowhead" d="M72.16698649025264 105L72.16698649025264 118.48214095269884" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M72.16698649025264 118.48214095269884L72.16698649025264 131.96428190539768" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment18 segment19">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="62.5" y="125"/>
+<text class="winding_number" x="63.5" y="131">
+-1
+</text>
+<path class="shortcut firstHalf arrowhead" d="M97.603573 105L97.603573 126.280425" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M97.603573 126.280425L97.603573 147.56085" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment7">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="50" y="137.5"/>
+<text class="winding_number" x="51" y="143.5">
+0
+</text>
+<path class="shortcut firstHalf arrowhead" d="M114.86005999999998 117.5L114.86005999999998 146.10625" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M114.86005999999998 146.10625L114.86005999999998 174.71249999999998" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment7">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="62.5" y="137.5"/>
+<text class="winding_number" x="63.5" y="143.5">
+-1
+</text>
+</g>
+<g class="treenode" segments="segment18 segment27">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="75" y="125"/>
+<text class="winding_number" x="76" y="131">
+-2
+</text>
+<path class="shortcut firstHalf arrowhead" d="M101.03515911925702 105L101.03515911925702 120.69338836388411" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M101.03515911925702 120.69338836388411L101.03515911925702 136.38677672776822" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment27">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="87.5" y="125"/>
+<text class="winding_number" x="88.5" y="131">
+-2
+</text>
+<path class="shortcut firstHalf arrowhead" d="M101.03515911925702 105L101.03515911925702 120.69338836388411" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M101.03515911925702 120.69338836388411L101.03515911925702 136.38677672776822" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment18">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="75" y="137.5"/>
+<text class="winding_number" x="76" y="143.5">
+-1
+</text>
+<path class="shortcut firstHalf arrowhead" d="M97.603573 117.5L97.603573 132.53042499999998" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M97.603573 132.53042499999998L97.603573 147.56085" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment17 segment18">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="87.5" y="137.5"/>
+<text class="winding_number" x="88.5" y="143.5">
+-1
+</text>
+<path class="shortcut firstHalf arrowhead" d="M129.33812025070043 117.5L129.33812025070043 138.48487385683904" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M129.33812025070043 138.48487385683904L129.33812025070043 159.46974771367806" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="">
+<rect fill="transparent" height="50" stroke="#aaa" width="50" x="0" y="150"/>
+<text class="winding_number" x="1" y="156">
+0
+</text>
+</g>
+<g class="treenode" segments="segment7">
+<rect fill="transparent" height="50" stroke="#aaa" width="50" x="50" y="150"/>
+<text class="winding_number" x="51" y="156">
+0
+</text>
+<path class="shortcut firstHalf arrowhead" d="M114.86005999999998 130L114.86005999999998 152.35625" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M114.86005999999998 152.35625L114.86005999999998 174.71249999999998" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment26">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="100" y="100"/>
+<text class="winding_number" x="101" y="106">
+-2
+</text>
+<path class="shortcut firstHalf arrowhead" d="M146.14948 80L146.14948 87.737349" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M146.14948 87.737349L146.14948 95.474698" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment26">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="125" y="100"/>
+<text class="winding_number" x="126" y="106">
+-2
+</text>
+</g>
+<g class="treenode" segments="segment26 segment27">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="100" y="125"/>
+<text class="winding_number" x="101" y="131">
+-2
+</text>
+<path class="shortcut firstHalf arrowhead" d="M146.14948 105L146.14948 100.237349" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M146.14948 100.237349L146.14948 95.474698" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment26">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="112.5" y="125"/>
+<text class="winding_number" x="113.5" y="131">
+-2
+</text>
+</g>
+<g class="treenode" segments="segment17">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="100" y="137.5"/>
+<text class="winding_number" x="101" y="143.5">
+-2
+</text>
+</g>
+<g class="treenode" segments="">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="112.5" y="137.5"/>
+<text class="winding_number" x="113.5" y="143.5">
+-2
+</text>
+</g>
+<g class="treenode" segments="segment16">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="125" y="125"/>
+<text class="winding_number" x="126" y="131">
+-1
+</text>
+<path class="shortcut firstHalf arrowhead" d="M162.22654593951734 105L162.22654593951734 114.02600293801586" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M162.22654593951734 114.02600293801586L162.22654593951734 123.05200587603173" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="150" y="100"/>
+<text class="winding_number" x="151" y="106">
+-2
+</text>
+</g>
+<g class="treenode" segments="segment14 segment15">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="162.5" y="100"/>
+<text class="winding_number" x="163.5" y="106">
+-1
+</text>
+</g>
+<g class="treenode" segments="segment15 segment16">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="150" y="112.5"/>
+<text class="winding_number" x="151" y="118.5">
+-1
+</text>
+<path class="shortcut firstHalf arrowhead" d="M166.7177 92.5L166.7177 102.200625" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M166.7177 102.200625L166.7177 111.90125" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment15">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="162.5" y="112.5"/>
+<text class="winding_number" x="163.5" y="118.5">
+-1
+</text>
+</g>
+<g class="treenode" segments="segment3 segment4 segment5">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="175" y="100"/>
+<text class="winding_number" x="176" y="106">
+0
+</text>
+</g>
+<g class="treenode" segments="">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="187.5" y="100"/>
+<text class="winding_number" x="188.5" y="106">
+0
+</text>
+</g>
+<g class="treenode" segments="segment5">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="175" y="112.5"/>
+<text class="winding_number" x="176" y="118.5">
+0
+</text>
+</g>
+<g class="treenode" segments="">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="187.5" y="112.5"/>
+<text class="winding_number" x="188.5" y="118.5">
+0
+</text>
+</g>
+<g class="treenode" segments="segment16">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="150" y="125"/>
+<text class="winding_number" x="151" y="131">
+-1
+</text>
+</g>
+<g class="treenode" segments="segment5">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="175" y="125"/>
+<text class="winding_number" x="176" y="131">
+0
+</text>
+</g>
+<g class="treenode" segments="segment17">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="100" y="150"/>
+<text class="winding_number" x="101" y="156">
+-1
+</text>
+<path class="shortcut firstHalf arrowhead" d="M129.33812025070043 130L129.33812025070043 144.73487385683904" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M129.33812025070043 144.73487385683904L129.33812025070043 159.46974771367806" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment17">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="112.5" y="150"/>
+<text class="winding_number" x="113.5" y="156">
+-1
+</text>
+<path class="shortcut firstHalf arrowhead" d="M129.33812025070043 130L129.33812025070043 144.73487385683904" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M129.33812025070043 144.73487385683904L129.33812025070043 159.46974771367806" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment7">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="100" y="162.5"/>
+<text class="winding_number" x="101" y="168.5">
+0
+</text>
+<path class="shortcut firstHalf arrowhead" d="M114.86005999999998 142.5L114.86005999999998 158.60625" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M114.86005999999998 158.60625L114.86005999999998 174.71249999999998" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment6 segment7">
+<rect fill="transparent" height="12.5" stroke="#aaa" width="12.5" x="112.5" y="162.5"/>
+<text class="winding_number" x="113.5" y="168.5">
+-1
+</text>
+</g>
+<g class="treenode" segments="segment16 segment17">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="125" y="150"/>
+<text class="winding_number" x="126" y="156">
+-1
+</text>
+</g>
+<g class="treenode" segments="segment6">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="100" y="175"/>
+<text class="winding_number" x="101" y="181">
+0
+</text>
+<path class="shortcut firstHalf arrowhead" d="M152.31947849382294 155L152.31947849382294 169.99901652405288" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M152.31947849382294 169.99901652405288L152.31947849382294 184.99803304810575" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment6">
+<rect fill="transparent" height="25" stroke="#aaa" width="25" x="125" y="175"/>
+<text class="winding_number" x="126" y="181">
+0
+</text>
+<path class="shortcut firstHalf arrowhead" d="M152.31947849382294 155L152.31947849382294 169.99901652405288" stroke="black" stroke-dasharray="2"/>
+<path class="shortcut" d="M152.31947849382294 169.99901652405288L152.31947849382294 184.99803304810575" stroke="black" stroke-dasharray="2"/>
+</g>
+<g class="treenode" segments="segment5 segment6">
+<rect fill="transparent" height="50" stroke="#aaa" width="50" x="150" y="150"/>
+<text class="winding_number" x="151" y="156">
+0
+</text>
+</g>
+<rect class="segment_bounding_box" fill="none" height="3.556678341093333" stroke="blue" stroke-dasharray="4" width="28.807064197748332" x="95.132894" y="14.434447658906668"/>
+<rect class="segment_bounding_box" fill="none" height="54.90110698827224" stroke="blue" stroke-dasharray="4" width="57.51208991835304" x="123.93995819774833" y="14.434447658906668"/>
+<rect class="segment_bounding_box" fill="none" height="3.6287953528210863" stroke="blue" stroke-dasharray="4" width="0.06519811610138504" x="181.38684999999998" y="69.33555464717891"/>
+<rect class="segment_bounding_box" fill="none" height="34.53462117571992" stroke="blue" stroke-dasharray="4" width="0.4460490390408438" x="180.94080096095914" y="72.96435"/>
+<rect class="segment_bounding_box" fill="none" height="2.7926472750461357" stroke="blue" stroke-dasharray="4" width="0.00012802709727566253" x="180.94080096095917" y="107.49897117571992"/>
+<rect class="segment_bounding_box" fill="none" height="74.7064145973397" stroke="blue" stroke-dasharray="4" width="28.6214504942335" x="152.31947849382294" y="110.29161845076605"/>
+<rect class="segment_bounding_box" fill="none" height="10.285533048105776" stroke="blue" stroke-dasharray="4" width="37.459418493822966" x="114.86005999999998" y="174.71249999999998"/>
+<rect class="segment_bounding_box" fill="none" height="79.19139267347472" stroke="blue" stroke-dasharray="4" width="99.47670019538994" x="15.383359804610043" y="95.52110732652525"/>
+<rect class="segment_bounding_box" fill="none" height="26.388069326525255" stroke="blue" stroke-dasharray="4" width="11.492430195389955" x="15.383359804610043" y="69.133038"/>
+<rect class="segment_bounding_box" fill="none" height="17.720038723571534" stroke="blue" stroke-dasharray="4" width="14.399558633222224" x="26.87579" y="51.412999276428465"/>
+<rect class="segment_bounding_box" fill="none" height="26.954933518977327" stroke="blue" stroke-dasharray="4" width="34.25505601185931" x="41.27534863322222" y="24.458065757451138"/>
+<rect class="segment_bounding_box" fill="none" height="14.751280242548859" stroke="blue" stroke-dasharray="4" width="34.19213535491846" x="75.53040464508153" y="24.458065757451138"/>
+<rect class="segment_bounding_box" fill="none" height="3.27891787602303" stroke="blue" stroke-dasharray="4" width="4.8474101111848" x="109.72254" y="39.209346"/>
+<rect class="segment_bounding_box" fill="none" height="56.00852797147694" stroke="blue" stroke-dasharray="4" width="55.28182462690788" x="114.5699501111848" y="42.48826387602303"/>
+<rect class="segment_bounding_box" fill="none" height="13.404458152500041" stroke="blue" stroke-dasharray="4" width="3.1340747380926643" x="166.7177" y="98.49679184749996"/>
+<rect class="segment_bounding_box" fill="none" height="11.150755876031724" stroke="blue" stroke-dasharray="4" width="4.491154060482671" x="162.22654593951734" y="111.90125"/>
+<rect class="segment_bounding_box" fill="none" height="36.41774183764633" stroke="blue" stroke-dasharray="4" width="32.88842568881691" x="129.33812025070043" y="123.05200587603173"/>
+<rect class="segment_bounding_box" fill="none" height="11.908897713678073" stroke="blue" stroke-dasharray="4" width="31.73454725070043" x="97.603573" y="147.56085"/>
+<rect class="segment_bounding_box" fill="none" height="15.596568094602304" stroke="blue" stroke-dasharray="4" width="25.436586509747357" x="72.16698649025264" y="131.96428190539768"/>
+<rect class="segment_bounding_box" fill="none" height="43.85632148406407" stroke="blue" stroke-dasharray="4" width="48.28568963647652" x="23.881296853776117" y="88.10796042133362"/>
+<rect class="segment_bounding_box" fill="none" height="11.370366421333614" stroke="blue" stroke-dasharray="4" width="3.461755146223883" x="23.881296853776117" y="76.737594"/>
+<rect class="segment_bounding_box" fill="none" height="24.06172492958192" stroke="blue" stroke-dasharray="4" width="34.11036344977066" x="27.343052" y="52.67586907041808"/>
+<rect class="segment_bounding_box" fill="none" height="9.558047929581917" stroke="blue" stroke-dasharray="4" width="18.794697550229344" x="61.45341544977066" y="52.67586907041808"/>
+<rect class="segment_bounding_box" fill="none" height="11.237817101492162" stroke="blue" stroke-dasharray="4" width="35.406089195238664" x="80.248113" y="62.233917"/>
+<rect class="segment_bounding_box" fill="none" height="14.128860647822322" stroke="blue" stroke-dasharray="4" width="33.388469228629134" x="115.65420219523867" y="73.47173410149216"/>
+<rect class="segment_bounding_box" fill="none" height="7.874103250685522" stroke="blue" stroke-dasharray="4" width="2.8931914238677905" x="146.14948" y="87.60059474931448"/>
+<rect class="segment_bounding_box" fill="none" height="40.91207872776822" stroke="blue" stroke-dasharray="4" width="45.114320880742994" x="101.03515911925702" y="95.474698"/>
+<rect class="segment_bounding_box" fill="none" height="15.928386727768228" stroke="blue" stroke-dasharray="4" width="24.733753119257017" x="76.301406" y="120.45839"/>
+<rect class="segment_bounding_box" fill="none" height="28.480314508468908" stroke="blue" stroke-dasharray="4" width="8.67284513119968" x="67.62856086880032" y="91.97807549153109"/>
+<rect class="segment_bounding_box" fill="none" height="73.98694949153109" stroke="blue" stroke-dasharray="4" width="27.504333131199687" x="67.62856086880032" y="17.991125999999998"/>
+<g class="segment" id="segment0">
+<g>
+<path class="firstHalf" d="M95.132894 17.991126C95.132894 17.991126 98.3688863527728 17.10195641472667 103.58776555387774 16.212786829453336" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M103.58776555387774 16.212786829453336C108.8066447549827 15.323617244180001 116.00841080441978 14.434447658906668 123.93995819774833 14.434447658906668" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="95.132894" cy="17.991126" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="123.93995819774833" cy="14.434447658906668" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment1">
+<g>
+<path class="firstHalf" d="M123.93995819774833 14.434447658906668C136.49066598525764 14.434447658906668 150.8686884648459 16.660857885092625 162.10903399755685 24.63670137171963" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M162.10903399755685 24.63670137171963C173.34937953026775 32.61254485834664 181.45204811610137 46.3378216054147 181.45204811610137 69.33555464717891" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="123.93995819774833" cy="14.434447658906668" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="181.45204811610137" cy="69.33555464717891" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment2">
+<g>
+<path class="firstHalf" d="M181.45204811610137 69.33555464717891C181.45204811610137 69.92796793719658 181.44667151762465 70.52653404882619 181.43583345387364 71.13131320123922" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M181.43583345387364 71.13131320123922C181.4249953901226 71.73609235365225 181.40869586109727 72.34708454684868 181.38684999999998 72.96435" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="181.45204811610137" cy="69.33555464717891" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="181.38684999999998" cy="72.96435" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment3">
+<g>
+<path class="firstHalf" d="M181.38684999999998 72.96435C181.1723688140471 79.02459916232678 181.0608565542869 84.95289654004343 181.00296459101492 90.71881058528504" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M181.00296459101492 90.71881058528504C180.94507262774295 96.48472463052666 180.94080096095917 102.08825534329324 180.94080096095917 107.49897117571992" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="181.38684999999998" cy="72.96435" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="180.94080096095917" cy="107.49897117571992" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment4">
+<g>
+<path class="firstHalf" d="M180.94080096095917 107.49897117571992C180.94080096095917 107.96732815414352 180.94083296773346 108.43424040790339 180.9408649745078 108.89968819955821" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M180.9408649745078 108.89968819955821C180.9408969812821 109.36513599121301 180.94092898805644 109.82911932076274 180.94092898805644 110.29161845076605" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="180.94080096095917" cy="107.49897117571992" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="180.94092898805644" cy="110.29161845076605" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment5">
+<g>
+<path class="firstHalf" d="M180.94092898805644 110.29161845076605C180.94092898805644 132.34184533609698 180.8681767777719 151.01844898543192 177.25411936085044 164.1824959134341" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M177.25411936085044 164.1824959134341C173.64006194392897 177.3465428414363 166.4846993203706 184.99803304810575 152.31947849382294 184.99803304810575" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="180.94092898805644" cy="110.29161845076605" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="152.31947849382294" cy="184.99803304810575" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment6">
+<g>
+<path class="firstHalf" d="M152.31947849382294 184.99803304810575C147.71581118489044 184.99803304810575 142.37173707929014 184.18985473841622 136.16818954199528 182.50007395255824" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M136.16818954199528 182.50007395255824C129.96464200470038 180.81029316670026 122.90162103571089 178.23890990467382 114.86005999999998 174.71249999999998" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="152.31947849382294" cy="184.99803304810575" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="114.86005999999998" cy="174.71249999999998" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment7">
+<g>
+<path class="firstHalf" d="M114.86005999999998 174.71249999999998C84.75063388289047 161.50881984872368 59.88145883404299 148.66491716607837 42.53964031447288 135.64496177839044" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M42.53964031447288 135.64496177839044C25.19782179490277 122.62500639070251 15.383359804610041 109.42899829797199 15.383359804610043 95.52110732652525" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="114.86005999999998" cy="174.71249999999998" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="15.383359804610043" cy="95.52110732652525" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment8">
+<g>
+<path class="firstHalf" d="M15.383359804610043 95.52110732652525C15.383359804610045 91.27605384622078 16.297705183825958 86.96467917364505 18.19143164785766 82.57174654161764" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M18.19143164785766 82.57174654161764C20.08515811188936 78.17881390959025 22.95826566073685 73.70432331811116 26.87579 69.133038" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="15.383359804610043" cy="95.52110732652525" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="26.87579" cy="69.133038" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment9">
+<g>
+<path class="firstHalf" d="M26.87579 69.133038C29.62808987287358 65.92143092898796 32.177378699784676 62.825711091098526 34.5638929741746 59.86574809946037" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M34.5638929741746 59.86574809946037C36.95040724856453 56.905785107822226 39.1741469704333 54.08157896243536 41.27534863322222 51.412999276428465" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="26.87579" cy="69.133038" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="41.27534863322222" cy="51.412999276428465" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment10">
+<g>
+<path class="firstHalf" d="M41.27534863322222 51.412999276428465C47.74194238194562 43.2002603370362 53.04792513256657 36.461526957291866 58.366150072178606 31.7759783123956" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M58.366150072178606 31.7759783123956C63.684375011790635 27.090429667499336 69.01484214039377 24.458065757451138 75.53040464508153 24.458065757451138" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="41.27534863322222" cy="51.412999276428465" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="75.53040464508153" cy="24.458065757451138" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment11">
+<g>
+<path class="firstHalf" d="M75.53040464508153 24.458065757451138C79.78390119699631 24.458065757451138 84.54245620059123 25.579914401448164 90.1323764837748 27.984748753765288" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M90.1323764837748 27.984748753765288C95.7222967669584 30.389583106082405 102.14358232973063 34.07740316671962 109.72254 39.209346" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="75.53040464508153" cy="24.458065757451138" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="109.72254" cy="39.209346" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment12">
+<g>
+<path class="firstHalf" d="M109.72254 39.209346C110.54521717094634 39.766405799036704 111.36055316229574 40.31806426081313 112.16847812913196 40.86449327644505" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M112.16847812913196 40.86449327644505C112.97640309596815 41.410922292076975 113.77691703829117 41.95212186156438 114.5699501111848 42.48826387602303" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="109.72254" cy="39.209346" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="114.5699501111848" cy="42.48826387602303" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment13">
+<g>
+<path class="firstHalf" d="M114.5699501111848 42.48826387602303C132.0072244319212 54.276997159082235 145.82768058864818 63.62052576825921 155.28881816519106 72.34617274851752" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M155.28881816519106 72.34617274851752C164.7499557417339 81.07181972877582 169.85177473809267 89.17958508011546 169.85177473809267 98.49679184749996" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="114.5699501111848" cy="42.48826387602303" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="169.85177473809267" cy="98.49679184749996" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment14">
+<g>
+<path class="firstHalf" d="M169.85177473809267 98.49679184749996C169.85177473809267 100.58234746143664 169.59615338446167 102.72850088414062 169.0765833653846 104.95574596107096" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M169.0765833653846 104.95574596107096C168.55701334630754 107.18299103800129 167.77349466178435 109.49132776915795 166.7177 111.90125" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="169.85177473809267" cy="98.49679184749996" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="166.7177" cy="111.90125" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment15">
+<g>
+<path class="firstHalf" d="M166.7177 111.90125C165.93884508125439 113.67903679098671 165.18442259362257 115.51296393020166 164.44053082193275 117.37932528656641" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M164.44053082193275 117.37932528656641C163.6966390502429 119.24568664293119 162.96327799449506 121.14448221644577 162.22654593951734 123.05200587603173" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="166.7177" cy="111.90125" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="162.22654593951734" cy="123.05200587603173" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment16">
+<g>
+<path class="firstHalf" d="M162.22654593951734 123.05200587603173C158.7838034163747 131.96584744487166 155.26744889478505 141.07028290428323 150.25890405367377 147.94625797148484" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M150.25890405367377 147.94625797148484C145.2503592125625 154.82223303868645 138.74962405192957 159.46974771367806 129.33812025070043 159.46974771367806" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="162.22654593951734" cy="123.05200587603173" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="129.33812025070043" cy="159.46974771367806" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment17">
+<g>
+<path class="firstHalf" d="M129.33812025070043 159.46974771367806C125.28183242736819 159.46974771367806 120.6848560562241 158.6064506705848 115.43362142014756 156.6861899348284" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M115.43362142014756 156.6861899348284C110.18238678407104 154.76592919907202 104.27689388306206 151.7887047706525 97.603573 147.56085" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="129.33812025070043" cy="159.46974771367806" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="97.603573" cy="147.56085" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment18">
+<g>
+<path class="firstHalf" d="M97.603573 147.56085C93.06637056012778 144.68632437965778 88.66300305032013 141.964260587927 84.41604659166595 139.37228908532182" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M84.41604659166595 139.37228908532182C80.16909013301175 136.7803175827167 76.07854472551102 134.31843836923724 72.16698649025264 131.96428190539768" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="97.603573" cy="147.56085" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="72.16698649025264" cy="131.96428190539768" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment19">
+<g>
+<path class="firstHalf" d="M72.16698649025264 131.96428190539768C57.62005008164793 123.20926349184272 45.5486276725288 115.94412377437453 37.113939365560846 109.01826833352118" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M37.113939365560846 109.01826833352118C28.67925105859289 102.09241289266782 23.881296853776114 95.50584172842929 23.881296853776117 88.10796042133362" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="72.16698649025264" cy="131.96428190539768" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="23.881296853776117" cy="88.10796042133362" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment20">
+<g>
+<path class="firstHalf" d="M23.881296853776117 88.10796042133362C23.881296853776117 86.32817665679408 24.15899684220479 84.50143520827807 24.73056622969711 82.61171462248822" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M24.73056622969711 82.61171462248822C25.302135617189435 80.72199403669839 26.167574403745405 78.76929431363476 27.343052 76.737594" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="23.881296853776117" cy="88.10796042133362" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="27.343052" cy="76.737594" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment21">
+<g>
+<path class="firstHalf" d="M27.343052 76.737594C31.910350557440516 68.84345784615839 37.49576621998925 62.82802661376291 43.41044484312482 58.78612941982783" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M43.41044484312482 58.78612941982783C49.32512346626039 54.74423222589275 55.5690650499828 52.67586907041808 61.45341544977066 52.67586907041808" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="27.343052" cy="76.737594" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="61.45341544977066" cy="52.67586907041808" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment22">
+<g>
+<path class="firstHalf" d="M61.45341544977066 52.67586907041808C65.0711479459772 52.67586907041808 68.55295996663405 53.45768162940655 71.73877004668951 55.04334390009851" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M71.73877004668951 55.04334390009851C74.92458012674496 56.6290061707905 77.81438826619903 59.01851815318598 80.248113 62.233917" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="61.45341544977066" cy="52.67586907041808" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="80.248113" cy="62.233917" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment23">
+<g>
+<path class="firstHalf" d="M80.248113 62.233917C82.89488004429637 65.73078296964763 88.04046318562197 68.01791951626669 94.37732414461551 69.69199843485082" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M94.37732414461551 69.69199843485082C100.71418510360905 71.36607735343497 108.24232388027053 72.42709864398418 115.65420219523867 73.47173410149216" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="80.248113" cy="62.233917" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="115.65420219523867" cy="73.47173410149216" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment24">
+<g>
+<path class="firstHalf" d="M115.65420219523867 73.47173410149216C124.15422228402846 74.66973304277916 132.50133959118574 75.8461817561135 138.7234518761456 77.9010139584367" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M138.7234518761456 77.9010139584367C144.9455641611054 79.95584616075992 149.0426714238678 82.889061852072 149.0426714238678 87.60059474931448" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="115.65420219523867" cy="73.47173410149216" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="149.0426714238678" cy="87.60059474931448" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment25">
+<g>
+<path class="firstHalf" d="M149.0426714238678 87.60059474931448C149.0426714238678 88.70290020925196 148.81840885351178 89.90254507524675 148.3446286403503 91.21105404959545" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M148.3446286403503 91.21105404959545C147.8708484271888 92.51956302394416 147.14755057122184 93.9369361066468 146.14948 95.474698" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="149.0426714238678" cy="87.60059474931448" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="146.14948" cy="95.474698" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment26">
+<g>
+<path class="firstHalf" d="M146.14948 95.474698C139.97518262936165 104.98765178159013 133.03004251353065 115.21567146353219 125.46175668818185 123.06545270007672" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M125.46175668818185 123.06545270007672C117.89347086283306 130.91523393662123 109.7020393279665 136.38677672776822 101.03515911925702 136.38677672776822" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="146.14948" cy="95.474698" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="101.03515911925702" cy="136.38677672776822" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment27">
+<g>
+<path class="firstHalf" d="M101.03515911925702 136.38677672776822C97.09122002656503 136.38677672776822 93.04882578088683 135.25373837429305 88.9218942913136 132.69617085658444" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M88.9218942913136 132.69617085658444C84.79496280174038 130.13860333887584 80.58349406827213 126.15650665693377 76.301406 120.45839" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="101.03515911925702" cy="136.38677672776822" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="76.301406" cy="120.45839" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment28">
+<g>
+<path class="firstHalf" d="M76.301406 120.45839C73.17205005405725 116.29419845948414 71.00383877125734 111.74361561997273 69.6179664749431 106.94933277178737" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M69.6179664749431 106.94933277178737C68.23209417862887 102.15504992360204 67.62856086880032 97.11706706674273 67.62856086880032 91.97807549153109" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="76.301406" cy="120.45839" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="67.62856086880032" cy="91.97807549153109" fill="black" r="2"/>
+</g>
+<g class="segment" id="segment29">
+<g>
+<path class="firstHalf" d="M67.62856086880032 91.97807549153109C67.62856086880032 74.63213518049902 74.50464415160023 56.13539780761626 81.38072743440017 41.97514551249151" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+<path d="M81.38072743440017 41.97514551249151C88.25681071720008 27.814893217366755 95.132894 17.991126000000015 95.13289400000001 17.991125999999998" id="path245" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill-rule:evenodd;stroke-dasharray:none"/>
+</g>
+<circle class="segmentBoundary" cx="67.62856086880032" cy="91.97807549153109" fill="black" r="2"/>
+<circle class="segmentBoundary" cx="95.13289400000001" cy="17.991125999999998" fill="black" r="2"/>
+</g>
+</svg>
