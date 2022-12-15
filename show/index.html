@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shortcut Tree</title>
+    <link rel="stylesheet" href="/style.css">
+    <script type="module" crossorigin src="/assets/show.c4faeb4d.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/main.1f3fc48e.js">
+  </head>
+  <body>
+    <div id="nav">
+      <a href="/">Previously on...</a>
+      <a href="/implementation/">Implementation</a>
+      <a href="/show/?svg=one.svg">One</a>
+      <a href="/show/?svg=two.svg">Two</a>
+    </div>
+    <div id="app">
+      <div id="picture">
+        <svg height="200mm" width="200mm" viewBox="0 0 200 200"></svg>
+      </div>
+      <div id="winding">
+        <div id="winding_number"></div>
+      </div>
+      <div id="controls">
+        <input id="check_all" type="checkbox">
+        <label for="check_all">Show all</label>
+        <hr> 
+        <h2>Abstract Segments</h2>
+        <input id="check_arrowheads" type="checkbox">
+        <label for="check_arrowheads">Show direction</label> 
+        <input id="check_boundaries" type="checkbox">
+        <label for="check_boundaries">Show boundaries</label> 
+        <input id="check_bounding_box" type="checkbox">
+        <label for="check_bounding_box">Show bounding boxes</label> 
+        <hr>
+        <h2>Shortcut Tree</h2>
+        <input id="check_tree" type="checkbox">
+        <label for="check_tree">Show shortcut tree</label>
+        <input id="check_shortcuts" type="checkbox">
+        <label for="check_shortcuts">Show shortcuts on hover</label>
+        <input id="check_winding_numbers" type="checkbox">
+        <label for="check_winding_numbers">Show initial winding numbers</label>
+        <hr>
+        <h2>Fill rule</h2>
+        <input type="radio" id="fill_none" name="fill_rule" value="none" checked>
+        <label for="fill_none">None</label>
+        <input type="radio" id="fill_evenodd" name="fill_rule" value="evenodd">
+        <label for="fill_evenodd">Even/odd</label>
+        <input type="radio" id="fill_nonzero" name="fill_rule" value="nonzero">
+        <label for="fill_nonzero">Non-zero</label>
+      </div>
+    </div>
+    
+    
+  </body>
+</html>
